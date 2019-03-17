@@ -1,6 +1,6 @@
 # Crystal-Collector!!
 
-## How My Game Works:
+### How My Game Works:
 
 * It is a guessing game where the player uses hidden numbers to match a random-generated number.
 * There are four crystals displayed as buttons on the page.
