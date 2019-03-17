@@ -11,5 +11,5 @@ How My Game Works:
 * If the player successfully matches his/her total score to the random number, they get 1 win. If the player's total score is greater than the random number, the player get 1 loss.  Afterwards the game restarts.
 * When the game is restarted, the playter is shown a new random number, each of the crystals have different values, and the player's total score is reseted back to zero.
 
-###### Thank you for visiting my github! Enjoy my game!
+## Thank you for visiting my github! Enjoy my game!
 Play my game here: https://lucyq19.github.io/Crystal-Collector/
