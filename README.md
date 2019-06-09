@@ -9,10 +9,10 @@ crystalCollector is a guessing game where the player uses hidden numbers to matc
 ### How My Game Works:
  
 * The player wins the game when his/her total score matches the random number. 
-* The player loses the game when their total score goes above the random number.
+* The player loses the game when his/her total score goes above the random number.
 * The number of games won and/or lost are updated and displayed after each game.
-* If the player successfully matches his/her total score to the random number, they get 1 win. If the player's total score is greater than the random number, the player get 1 loss.  Afterwards, the game restarts.
-* When the game is restarted, the playter is shown a new random number, each of the crystals have different values, and the player's total score is reseted back to zero.
+* If the player successfully matches his/her total score to the random number, they get one win. If the player's total score is greater than the random number, the player get one loss.  Afterwards, the game restarts.
+* When the game is restarted, the player is shown a new random number, each of the crystals have different values, and the player's total score is reseted back to zero.
 
 ### Technologies Used for this App:
 
