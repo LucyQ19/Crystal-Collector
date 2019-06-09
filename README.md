@@ -13,4 +13,4 @@
 * When the game is restarted, the playter is shown a new random number, each of the crystals have different values, and the player's total score is reseted back to zero.
 
 ### Thank you for visiting my github! Enjoy my game!
-Play my game here: https://lucyq19.github.io/Crystal-Collector/
+Play my game here: https://lucyq19.github.io/crystalCollector/
