@@ -4,12 +4,10 @@
 
 ### About this App: 
 
-crystalCollector is a guessing game where the player uses hidden numbers to match a randomly-generated.  There are four crystals displayed as buttons on the page.  When
+crystalCollector is a guessing game where the player uses hidden numbers to match a randomly-generated number between 19 and 120.  There are four crystals displayed as buttons on the page.  When the player clicks on a crystals it will add a specific amount of points to the player's total score.  The amount of each crystal will be between 1 and 12 points.
 
 ### How My Game Works:
 
-* The player is shown a random number between 19 and 120 at the start of the game.
-* When the player clicks on a crystals it will add a specific amount of points to the player's total score.  The amount of each crystal will be between 1 and 12 points.
 * The player wins the game if his/her total score matches the random number; and the player loses the game if their total score goes above the random number.
 * The amount of points each crystal adds is not shown to the player, but their total score is displayed and updated after each crystal is clicked.
 * The number of games won and/or lost are also displayed.
