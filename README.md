@@ -1,6 +1,6 @@
 # crystalCollector!
 
-![Image of crystalCollector](./assets/images/crystalcollector.png)
+![Image of crystalCollector](./assets/images/crystalCollector.png)
 
 ### About this App: 
 
