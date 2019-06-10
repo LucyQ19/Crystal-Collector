@@ -6,7 +6,7 @@
 
 crystalCollector is a guessing game where the player uses hidden numbers to match a randomly-generated number between 19 and 120.  When the player clicks on one of the crystal buttons, it adds a specific amount of points to the player's total score.  The amount of each crystal is hidden till the player clicks on it.  The amount of each crystal is between 1 and 12 points. 
 
-### How My Game Works:
+### How my App Works:
  
 * The player wins the game when his/her total score matches the random number. 
 * The player loses the game when his/her total score goes above the random number.
@@ -21,6 +21,6 @@ crystalCollector is a guessing game where the player uses hidden numbers to matc
 
 ### Thank you for visiting my GitHub!
 
-Enjoy playing my game here: https://lucyq19.github.io/crystalCollector/
+Enjoy using my app here: https://lucyq19.github.io/crystalCollector/
 
 If you like this app, you may enjoy using more of my apps here: https://lucyq19.github.io/professionalPortfolio/
